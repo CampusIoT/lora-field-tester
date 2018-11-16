@@ -5,11 +5,8 @@ Ionic hybrid application
 * https://ionicframework.com/docs/native/ble/
 
 ## Supported modem boards
-* USB Serial for OTG phones
-** RN2483
-* BLE
-** ESP32LoRa
-** Pycom LoPy
+* USB Serial for OTG phones : RN2483 modem
+* BLE : ESP32LoRa, Pycom LoPy
 
 ## External API
 * https://ttnmapper.org/
